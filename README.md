@@ -36,3 +36,7 @@ Also be mindful that AMP has many different modules and plugins, you may want to
 ## Esoteric Translations
 
 If you're planning on submitting an esoteric translation such as Pirate, please use the format of `xxname.json` and `xxname` as the locale. E.g. `xxpirate.json` and `"LocalName": "xxpirate"` to denote that they are not serious translations.
+
+## Translation tools
+[crowdin](https://crowdin.com/project/amptranslations-zhtw)
+
